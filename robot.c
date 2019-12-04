@@ -4,7 +4,11 @@
  * A file that contains the supporting functions for main() in the
  * ~/robots example source for Software Engineering.
  *
+<<<<<<< HEAD
  * @author Tanya L. Crenshaw, Nathan Schmedake, Matthew Groh
+=======
+ * @author Tanya L. Crenshaw, Nathan Schmedake, Samuel Nguyen
+>>>>>>> 873bbdce9f733fdcde8072e37ee48b21e936cc4b
  * @since August 2013
  *
  */
@@ -60,7 +64,7 @@ void dalekPrintAscii(void)
          "%s     |       |     \n"
          "%s    < ------- >    \n"
          "%s    o         o    \n"
-         "%s    o  0  ()  o    \n"
+         "%s    o  ()  ()  o    \n"
 	 "%s   o           o   \n"
    	 "%s o o o o o o o o o \n"
    	 "%s o o o o o o o o o \n"
